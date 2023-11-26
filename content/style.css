@@ -1,0 +1,13 @@
+nav {
+    display: block;
+}
+#navegation {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#navegation a {
+  text-decoration: none;
+  color: black;
+}
